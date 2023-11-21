@@ -25,5 +25,5 @@ This project aims to create an intelligent and interactive system, powered by ad
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/hyundai-bluelink-nAI.git
+   git clone https://github.com/A1TRO/hyundai-bluelink-nAI.git
    ```
